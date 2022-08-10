@@ -1,0 +1,1401 @@
+{
+	"success": true,
+	"data": {
+		"search_query": {
+			"query": "q=bitcoin+usd&num=100",
+			"device": "desktop",
+			"domain": "google.al",
+			"location": "France",
+			"engine": "google"
+		},
+		"organic_results": [
+			{
+				"position": 1,
+				"title": "Bitcoin USD (BTC-USD) Price, Value, News & History",
+				"link": "https://finance.yahoo.com/quote/BTC-USD/",
+				"domain": "finance.yahoo.com",
+				"displayed_link": "https://finance.yahoo.com › quote › BTC-USD",
+				"description": "BTC-USD - Bitcoin USD ; Market Cap, 439.394B ; Circulating Supply, 19.10M ; Max Supply, N/A ; Volume, 33,680,748,544 ; Volume (24hr), 33.68B.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD",
+					"Bitcoin USD"
+				],
+				"sitelinks": [
+					{
+						"title": "This chart is not available",
+						"link": "https://finance.yahoo.com/chart/BTC-USD/"
+					},
+					{
+						"title": "Conversations",
+						"link": "https://finance.yahoo.com/quote/BTC-USD/community/"
+					},
+					{
+						"title": "Daily",
+						"link": "https://finance.yahoo.com/quote/BTC-USD/history/"
+					},
+					{
+						"title": "BCH-USD - Bitcoin Cash USD",
+						"link": "https://finance.yahoo.com/quote/BCH-USD/"
+					}
+				]
+			},
+			{
+				"position": 2,
+				"title": "Bitcoin Price | BTC Price Index and Live Chart — CoinDesk 20",
+				"link": "https://www.coindesk.com/price/bitcoin/",
+				"domain": "www.coindesk.com",
+				"displayed_link": "https://www.coindesk.com › price › bitcoin",
+				"description": "Bitcoin USD price, real-time (live) charts, news and videos. Learn about BTC value, bitcoin cryptocurrency, crypto trading, and more.",
+				"emphasized_keywords": [
+					"Bitcoin USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 3,
+				"title": "Bitcoin price today, BTC to USD live, marketcap and chart",
+				"link": "https://coinmarketcap.com/currencies/bitcoin/",
+				"domain": "coinmarketcap.com",
+				"displayed_link": "https://coinmarketcap.com › currencies › bitcoin",
+				"description": "The live Bitcoin price today is $23,140.55 USD with a 24-hour trading volume of $33,518,612,662 USD. We update our BTC to USD price in real-time.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD",
+					"USD",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 4,
+				"title": "BTC.CM=: Bitcoin/USD Coin Metrics - Stock Price, Quote and ...",
+				"link": "https://www.cnbc.com/quotes/BTC.CM=",
+				"domain": "www.cnbc.com",
+				"displayed_link": "https://www.cnbc.com › quotes › BTC",
+				"description": "Get Bitcoin/USD Coin Metrics (BTC.CM=:Exchange) real-time stock quotes, news, price and financial information from CNBC.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 5,
+				"title": "BTCUSD | Bitcoin USD Overview - MarketWatch",
+				"link": "https://www.marketwatch.com/investing/cryptocurrency/btcusd",
+				"domain": "www.marketwatch.com",
+				"displayed_link": "https://www.marketwatch.com › ... › Crypto Currency",
+				"description": "Bitcoin USD ; Open $23,134 ; Day Range 22,963 - 23,250 ; 52 Week Range 18,669 - 68,925 ; 5 Day. 10.05% ; 1 Month. 8.66%.",
+				"emphasized_keywords": [
+					"Bitcoin USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 6,
+				"title": "BTCUSD — Bitcoin Chart and Price - TradingView",
+				"link": "https://www.tradingview.com/symbols/BTCUSD/",
+				"domain": "www.tradingview.com",
+				"displayed_link": "https://www.tradingview.com › ... › Cryptocurrencies",
+				"description": "Watch live Bitcoin to Dollar chart, follow BTCUSD prices in real-time and get bitcoin price ... BTCUSD H1: BUY DIPS TP BULLS 25 000 USD SHORT-TERM(NEW).",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 7,
+				"title": "Bitcoin Price Chart (BTC/USD) - BitFlyer",
+				"link": "https://bitflyer.com/en-us/bitcoin-chart",
+				"domain": "bitflyer.com",
+				"displayed_link": "https://bitflyer.com › en-us › bitcoin-chart",
+				"description": "Check out the current Bitcoin (BTC) price, market cap, historical volatility, and buy Bitcoin on bitFlyer today with as ... Virtual currency / USD charts.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 8,
+				"title": "BTC to USD | Bitcoin to US Dollar - Investing.com",
+				"link": "https://www.investing.com/crypto/bitcoin/btc-usd",
+				"domain": "www.investing.com",
+				"displayed_link": "https://www.investing.com › crypto › bitcoin › btc-usd",
+				"description": "BTC/USD - Bitcoin US Dollar · Volume: 8,363 · Bid/Ask: 23,007.0/23,011.0 · Day's Range: 22,350.0 - 23,423.0.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 9,
+				"title": "Bitcoin (BTC) Price, Charts, and News - Coinbase",
+				"link": "https://www.coinbase.com/price/bitcoin",
+				"domain": "www.coinbase.com",
+				"displayed_link": "https://www.coinbase.com › price › bitcoin",
+				"description": "July 21, 2022 - The current price of Bitcoin is $23003.91 per (BTC / USD). Bitcoin is 66.56% below the all time high of $68789.63.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 10,
+				"title": "Bitcoin Price in USD | Real Time Bitcoin Chart - KITCO",
+				"link": "https://www.kitco.com/price/bitcoin/",
+				"domain": "www.kitco.com",
+				"displayed_link": "https://www.kitco.com › price › bitcoin",
+				"description": "The Kitco Bitcoin price index provides the latest Bitcoin price in US Dollars using an average from the world's leading exchanges.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"Bitcoin",
+					"US Dollars"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 11,
+				"title": "Bitcoin USD (BTC-USD) Stock Price Today, Quote & News",
+				"link": "https://seekingalpha.com/symbol/BTC-USD",
+				"domain": "seekingalpha.com",
+				"displayed_link": "https://seekingalpha.com › symbol › BTC-USD",
+				"description": "Bitcoin USD price and volume ; Supply. 19,098,831.0 ; Market Cap. $445.24B ; Volume 24h. 616.49K ; Volume $ 24h. $14.39B.",
+				"emphasized_keywords": [
+					"Bitcoin USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 12,
+				"title": "Bitcoin Price in USD: Convert BTC to USD Today - CoinGecko",
+				"link": "https://www.coingecko.com/en/coins/bitcoin/usd",
+				"domain": "www.coingecko.com",
+				"displayed_link": "https://www.coingecko.com › coins › bitcoin › usd",
+				"description": "BTC to USD rate today is $22,614 and has decreased -4.7% from $23,718.38 since yesterday. Bitcoin (BTC) is on a upward monthly trajectory as it has increased ...",
+				"emphasized_keywords": [
+					"BTC",
+					"USD",
+					"Bitcoin",
+					"BTC"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 13,
+				"title": "Bitcoin Price | BTC to USD Charts & Stats - FTX US",
+				"link": "https://ftx.us/trade/BTC/USD",
+				"domain": "ftx.us",
+				"displayed_link": "https://ftx.us › trade › BTC › USD",
+				"description": "21 July 2022 - Bitcoin price is $21965 per (BTC / USD) with a -0.46% price change. Bitcoin has an all time high of $69045. Learn more.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 14,
+				"title": "Bitcoin Price Chart (USD) - BTC - Crypto.com",
+				"link": "https://crypto.com/price/bitcoin",
+				"domain": "crypto.com",
+				"displayed_link": "https://crypto.com › price › bitcoin",
+				"description": "Bitcoin's price today is US$22,650.16, with a 24-hour trading volume of $39.52 B. BTC is +7.45% in the last 24 hours. It is currently -0.25% from its 7-day ...",
+				"emphasized_keywords": [
+					"Bitcoin's",
+					"BTC"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 15,
+				"title": "Bitcoin Price | BTC USD | Chart - Markets Insider",
+				"link": "https://markets.businessinsider.com/currencies/btc-usd",
+				"domain": "markets.businessinsider.com",
+				"displayed_link": "https://markets.businessinsider.com › currencies › btc-usd",
+				"description": "Bitcoin Price (BTC USD): Get all information on the Bitcoin to US-Dollar Exchange Rate including Charts, News and Realtime Price.",
+				"emphasized_keywords": [
+					"BTC USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 16,
+				"title": "Trade Bitcoin (USD) - BTC - IG",
+				"link": "https://www.ig.com/en/forex/markets-forex/bitcoin-1",
+				"domain": "www.ig.com",
+				"displayed_link": "https://www.ig.com › Markets to trade › Markets forex",
+				"description": "Bitcoin (USD) chart This market's chart. This is a visual representation of the price action in the market, over a certain period of time.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 17,
+				"title": "News From WSJ - Bitcoin USD - BTCUSD",
+				"link": "https://www.wsj.com/market-data/quotes/fx/BTCUSD",
+				"domain": "www.wsj.com",
+				"displayed_link": "https://www.wsj.com › market-data › quotes › BTCUSD",
+				"description": "View the latest BTC to USD exchange rate, news, historical charts, analyst ratings and financial information from WSJ.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 18,
+				"title": "Bakkt Bitcoin (USD) Monthly Futures - ICE",
+				"link": "https://www.theice.com/products/72035464/Bakkt-Bitcoin-USD-Monthly-Futures",
+				"domain": "www.theice.com",
+				"displayed_link": "https://www.theice.com › products › Bakkt-Bitcoin-US...",
+				"description": "Trading Screen Product Name: Bakkt BTC (USD) Monthly Future; Trading Screen Hub Name: ICUS; Contract Symbol. BTM. Contract Size. 1 Bitcoin. Price Quotation.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 19,
+				"title": "BTCUSD - Bitcoin - USD Cryptocurrency Trader's Cheat Sheet",
+				"link": "https://www.barchart.com/crypto/quotes/%5EBTCUSD/cheat-sheet",
+				"domain": "www.barchart.com",
+				"displayed_link": "https://www.barchart.com › crypto › quotes › cheat-sheet",
+				"description": "Support/Resistance LevelsPriceKey Turning Points111,100.98Price Crosses 18‑40 Day Moving Average52‑Week High68,906.4849,312.8838.2% Retracement From 52 Week HighView 46 more rows",
+				"emphasized_keywords": [],
+				"sitelinks": []
+			},
+			{
+				"position": 20,
+				"title": "1 BTC to USD - Bitcoins to US Dollars Exchange Rate - Xe",
+				"link": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=BTC&To=USD",
+				"domain": "www.xe.com",
+				"displayed_link": "https://www.xe.com › currencyconverter › convert › T...",
+				"description": "Convert Bitcoin to US Dollar ; 1 BTC, 22,742.7 USD ; 5 BTC, 113,713 USD ; 10 BTC, 227,427 USD ; 25 BTC, 568,567 USD.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"USD",
+					"BTC",
+					"USD",
+					"BTC",
+					"USD",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 21,
+				"title": "$23,190.85 BTC/USD - Buy Bitcoin - Bitstamp",
+				"link": "https://www.bitstamp.net/markets/btc/usd/",
+				"domain": "www.bitstamp.net",
+				"displayed_link": "https://www.bitstamp.net › markets › btc › usd",
+				"description": "The current market price is 10000 USD for 1 BTC. The trader in a short position might want to set up a stop buy order for BTC at 11000 USD for 1 BTC. The price ...",
+				"emphasized_keywords": [
+					"USD",
+					"BTC",
+					"BTC",
+					"USD",
+					"BTC"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 22,
+				"title": "Bitcoin (BTC) Price, Real-time Quote & News - Google Finance",
+				"link": "https://www.google.com/finance/quote/BTC-USD?hl=en",
+				"domain": "www.google.com",
+				"displayed_link": "https://www.google.com › finance › quote › BTC-USD",
+				"description": "Get the latest Bitcoin (BTC / USD) real-time quote, historical performance, charts, and other cryptocurrency information to help you make more informed ...",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 23,
+				"title": "USD-BTC Bitcoin - Bittrex",
+				"link": "https://bittrex.com/Market/Index?MarketName=USD-BTC",
+				"domain": "bittrex.com",
+				"displayed_link": "https://bittrex.com › Market › Index › MarketName=US...",
+				"description": "Bitcoin (USD-BTC). $0.000. (≈. ----------. ) Bid. 0.000. Ask. 0.000. High. 0.000. Low. 0.000. Chg. 0.00%. Vol. 0.0000. Chart Depth Order books",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 24,
+				"title": "Bitfinex | Cryptocurrency Exchange | Bitcoin Trading | Futures ...",
+				"link": "https://www.bitfinex.com/",
+				"domain": "www.bitfinex.com",
+				"displayed_link": "https://www.bitfinex.com",
+				"description": "BTC/USD23,4686.23%23,80021,592227,147,639 USDETH/USD1,562.91.98%1,590.01,489.991,104,136 USDUSDt/USD0.99992‑0.02%1.00030.9999049,371,129 USDSOL/USD45.7675.05%47.69042.5215,126,932 USDView 181 more rows",
+				"emphasized_keywords": [],
+				"sitelinks": []
+			},
+			{
+				"position": 25,
+				"title": "23,224.86 ｜ BTCUSDT | Binance Spot",
+				"link": "https://www.binance.com/en/trade/btc_USDT",
+				"domain": "www.binance.com",
+				"displayed_link": "https://www.binance.com › trade › btc_USDT",
+				"description": "Binance cryptocurrency exchange - We operate the worlds biggest bitcoin exchange and altcoin crypto exchange in the world by volume.",
+				"emphasized_keywords": [
+					"cryptocurrency",
+					"bitcoin",
+					"crypto"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 26,
+				"title": "BTC.X Bitcoin BTC/USD — Stock Price and Discussion",
+				"link": "https://stocktwits.com/symbol/BTC.X",
+				"domain": "stocktwits.com",
+				"displayed_link": "https://stocktwits.com › symbol › BTC.X",
+				"description": "Real-time trade and investing ideas on Bitcoin BTC/USD BTC.X from the largest community of traders and investors.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 27,
+				"title": "Bitcoin Price Tracker (BTC/USD) - TIME",
+				"link": "https://time.com/nextadvisor/investing/cryptocurrency/price/bitcoin-btc/",
+				"domain": "time.com",
+				"displayed_link": "https://time.com › investing › cryptocurrency › bitcoin-...",
+				"description": "Bitcoin's price is as volatile as it is valuable. ... (btc/USD) ... trading platform to exchange your U.S. dollars for bitcoin or other digital currencies.",
+				"emphasized_keywords": [
+					"btc",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 28,
+				"title": "BTC/USD Chart | Bitcoin Price Today in USD - Capital.com",
+				"link": "https://capital.com/btc-usd-chart",
+				"domain": "capital.com",
+				"displayed_link": "https://capital.com › Markets › Cryptocurrencies",
+				"description": "The BTC/USD pair matches the world's foremost cryptocurrency, Bitcoin, with one of the most influential fiat currencies – the American dollar.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 29,
+				"title": "BTC to USD Converter | USD to BTC Calculator - Nomics",
+				"link": "https://nomics.com/markets/btc-bitcoin/usd-united-states-dollar",
+				"domain": "nomics.com",
+				"displayed_link": "https://nomics.com › Bitcoin",
+				"description": "Need to convert 1 BTC to USD? Or 100 USD to BTC with accurate, real-time prices? Try our Bitcoin to United States Dollar currency conversion & calculator.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD",
+					"USD",
+					"BTC",
+					"Bitcoin"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 30,
+				"title": "Bitcoin Price Today | BTC Live Chart and Forecast - DailyFX",
+				"link": "https://www.dailyfx.com/bitcoin",
+				"domain": "www.dailyfx.com",
+				"displayed_link": "https://www.dailyfx.com › bitcoin",
+				"description": "BTC/USD Chart ... Bitcoin (BTC) is recognised as the world's first truly digitalised digital currency (also known as a cryptocurrency). The Bitcoin price is prone ...",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 31,
+				"title": "Bitcoin USD Overview | BTCUSD - Barron's",
+				"link": "https://www.barrons.com/market-data/cryptocurrencies/btcusd",
+				"domain": "www.barrons.com",
+				"displayed_link": "https://www.barrons.com › market-data › cryptocurrencies",
+				"description": "3 days ago — A complete Bitcoin USD cryptocurrency overview by Barron's. View the latest BTCUSD crypto news, prices and market data.",
+				"emphasized_keywords": [
+					"Bitcoin USD"
+				],
+				"sitelinks": [],
+				"date": "3 days ago"
+			},
+			{
+				"position": 32,
+				"title": "Bitcoin to USD - Live Price Chart - Macrotrends",
+				"link": "https://www.macrotrends.net/2602/bitcoin-usd-live-price-chart",
+				"domain": "www.macrotrends.net",
+				"displayed_link": "https://www.macrotrends.net › bitcoin-usd-live-price-ch...",
+				"description": "Interactive chart tracking the current and historical value of Bitcoin in U.S. Dollars. The current price of Bitcoin in USD as of December 31, 1969 is 0.00.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"U.S. Dollars",
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 33,
+				"title": "Bitcoin Calculator: BTC to USD Price & History Chart - Paxful",
+				"link": "https://paxful.com/calculator",
+				"domain": "paxful.com",
+				"displayed_link": "https://paxful.com › calculator",
+				"description": "Use our tool to convert BTC to USD or any currency & vice versa. Our chart also tracks bitcoin price history over the past 24 hours, weeks, or months.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD",
+					"bitcoin"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 34,
+				"title": "BTC-USD Trading - AvaTrade",
+				"link": "https://www.avatrade.com/trading-info/financial-instruments-index/cryptocurrencies/btcusd",
+				"domain": "www.avatrade.com",
+				"displayed_link": "https://www.avatrade.com › ... › Crypto Coins",
+				"description": "BTC/USD refers to the pairing of the leading cryptocurrency Bitcoin with the U.S. dollar. It's a very new currency pair, and one that has generated much ...",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 35,
+				"title": "BTC to USD Trading | Bitcoin to United States Dollar Price Chart",
+				"link": "https://www.beaxy.com/market/btc/",
+				"domain": "www.beaxy.com",
+				"displayed_link": "https://www.beaxy.com › Market",
+				"description": "Jun 24, 2022 — Trade Bitcoin to USD on Beaxy. Bitcoin is a network of computers that maintain and govern a public record of peer-to-peer electronic value ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD",
+					"Bitcoin"
+				],
+				"sitelinks": [],
+				"date": "Jun 24, 2022"
+			},
+			{
+				"position": 36,
+				"title": "Bitcoin (BTC/USD) Crypto Price, News and Market Data",
+				"link": "https://www.benzinga.com/quote/BTC-USD",
+				"domain": "www.benzinga.com",
+				"displayed_link": "https://www.benzinga.com › quote › BTC-USD",
+				"description": "Bitcoin crypto price, news, charts, data, profile.",
+				"emphasized_keywords": [
+					"Bitcoin crypto"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 37,
+				"title": "Bitcoin price | index, chart and news - WorldCoinIndex",
+				"link": "https://www.worldcoinindex.com/coin/bitcoin",
+				"domain": "www.worldcoinindex.com",
+				"displayed_link": "https://www.worldcoinindex.com › coin › bitcoin",
+				"description": "Bitcoin BTC price graph info 24 hours, 7 day, 1 month, 3 month, 6 month, 1 year. Prices denoted in BTC, USD, EUR, CNY, RUR, GBP.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 38,
+				"title": "Gold Price Bitcoin/USD buy or sell. - NAGA Markets",
+				"link": "https://nagamarkets.com/open-trade/BTCUSD",
+				"domain": "nagamarkets.com",
+				"displayed_link": "https://nagamarkets.com › open-trade › BTCUSD",
+				"description": "Bitcoin/USD. Buy and sell Bitcoin/USD on NAGA Trader. Follow the Bitcoin/USD chart and trade in real time. Bitcoin is a digital currency created in 2009.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD",
+					"Bitcoin",
+					"USD",
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 39,
+				"title": "Bitcoin USD Exchange Trade Volume - Nasdaq Data Link",
+				"link": "https://data.nasdaq.com/data/BCHAIN/TRVOU-bitcoin-usd-exchange-trade-volume",
+				"domain": "data.nasdaq.com",
+				"displayed_link": "https://data.nasdaq.com › data › BCHAIN › TRVOU-bit...",
+				"description": "Bitcoin USD Exchange Trade Volume. From the data product: Blockchain(33 datasets). Refreshed 13 hours ago, on 16 Jul 2022; Frequency daily; Description The ...",
+				"emphasized_keywords": [
+					"Bitcoin USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 40,
+				"title": "Buy Bitcoin - BTC Price Today, Live Charts and News",
+				"link": "https://robinhood.com/crypto/BTC",
+				"domain": "robinhood.com",
+				"displayed_link": "https://robinhood.com › Crypto",
+				"description": "Buy Bitcoin with $1 - BTC $23300.11, Jul 21, 2022. Invest in BTC cryptocurrency with Robinhood in the easiest and fastest way.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"BTC cryptocurrency"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 41,
+				"title": "Bitcoin Price Chart and Tables | Finance Reference",
+				"link": "https://www.in2013dollars.com/bitcoin-price",
+				"domain": "www.in2013dollars.com",
+				"displayed_link": "https://www.in2013dollars.com › bitcoin-price",
+				"description": "YearMonthBitcoin Price ($)Change ($)Month‑over‑month (%)2022719,488‑11,963.50‑38.042022631,451.50‑6,472.31‑17.072022537,923.81‑8,230.69‑17.83View 142 more rows",
+				"emphasized_keywords": [],
+				"sitelinks": []
+			},
+			{
+				"position": 42,
+				"title": "23,380 USD · Preev",
+				"link": "http://preev.com/",
+				"domain": "preev.com",
+				"displayed_link": "http://preev.com",
+				"description": "See the live Bitcoin price. Convert amounts to or from USD and other currencies with this simple Bitcoin calculator.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD",
+					"Bitcoin"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 43,
+				"title": "Bitcoin Returns Above USD 20K, Ethereum Rallies, CEL ...",
+				"link": "https://cryptonews.com/news/bitcoin-returns-above-usd-20k-ethereum-rallies-cel-keeps-outperforming.htm",
+				"domain": "cryptonews.com",
+				"displayed_link": "https://cryptonews.com › News",
+				"description": "Jul 4, 2022 — Bitcoin price climbed above the USD 20000 resistance. Ethereum jumped over 9%, XRP is still well below USD 0.35. CEL increased its gains by ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD",
+					"USD"
+				],
+				"sitelinks": [],
+				"date": "Jul 4, 2022"
+			},
+			{
+				"position": 44,
+				"title": "Bitcoin price spikes to $20K as whale-bought BTC confirms ...",
+				"link": "https://cointelegraph.com/news/bitcoin-price-spikes-to-20k-as-whale-bought-btc-confirms-support",
+				"domain": "cointelegraph.com",
+				"displayed_link": "https://cointelegraph.com › news › bitcoin-price-spikes-to...",
+				"description": "Jul 4, 2022 — Data from Cointelegraph Markets Pro and TradingView showed BTC/USD spiking to $20,085 on the day, its best performance since June 30.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": [],
+				"date": "Jul 4, 2022"
+			},
+			{
+				"position": 45,
+				"title": "BTC/USD - Bitso",
+				"link": "https://bitso.com/trade/market/btc/usd",
+				"domain": "bitso.com",
+				"displayed_link": "https://bitso.com › trade › market › btc › usd",
+				"description": "Market. btc/usd. Change market. All. USD. BTC. DAI. USDT. MXN. ARS. BRL. usd. USD stablecoins. btc. /usd. 23,152.83 USD. xrp. /usd. 0.3608 USD. eth. /usd.",
+				"emphasized_keywords": [
+					"btc",
+					"usd"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 46,
+				"title": "Crypto Bitcoin / Dollar BTC/USD Chart Daily - FINVIZ.com",
+				"link": "https://finviz.com/crypto_charts.ashx?t=BTCUSD",
+				"domain": "finviz.com",
+				"displayed_link": "https://finviz.com › crypto_charts › t=BTCUSD",
+				"description": "Stock screener for investors and traders, financial visualizations.",
+				"emphasized_keywords": [],
+				"sitelinks": []
+			},
+			{
+				"position": 47,
+				"title": "Bitcoin price history 2013-2022 - Statista",
+				"link": "https://www.statista.com/statistics/326707/bitcoin-price-index/",
+				"domain": "www.statista.com",
+				"displayed_link": "https://www.statista.com › statistics › bitcoin-price-index",
+				"description": "Bitcoin (BTC) price again reached an all-time high in 2021, as values exceeded over 65,000 USD in February 2021, April 2021 and November 2021.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 48,
+				"title": "Bitcoin - Wikipedia",
+				"link": "https://en.wikipedia.org/wiki/Bitcoin",
+				"domain": "en.wikipedia.org",
+				"displayed_link": "https://en.wikipedia.org › wiki › Bitcoin",
+				"description": "Bitcoin (₿) is a decentralized digital currency that can be transferred on the peer-to-peer bitcoin network. Bitcoin transactions are verified by network ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"bitcoin",
+					"Bitcoin"
+				],
+				"sitelinks": [
+					{
+						"title": "Satoshi Nakamoto",
+						"link": "http://en.wikipedia.org/wiki/Satoshi_Nakamoto"
+					}
+				]
+			},
+			{
+				"position": 49,
+				"title": "23535.74 USD/BTC",
+				"link": "https://bitcointicker.co/",
+				"domain": "bitcointicker.co",
+				"displayed_link": "https://bitcointicker.co",
+				"description": "Bitcoin Ticker - Tick by tick, real time updates. All data is indicative. Options Last Updated: 4.981 seconds ...",
+				"emphasized_keywords": [
+					"Bitcoin"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 50,
+				"title": "Bitcoin Price Chart - 6 Month Price History BTC to USD",
+				"link": "https://www.bullionbypost.co.uk/bitcoin-price/bitcoin-price-6-month-usd/",
+				"domain": "www.bullionbypost.co.uk",
+				"displayed_link": "https://www.bullionbypost.co.uk › bitcoin-price › bitcoi...",
+				"description": "View Bitcoin's price over the past 6 months in US Dollars (USD) to see the number one cryptocurrency's performance.",
+				"emphasized_keywords": [
+					"Bitcoin's",
+					"US Dollars",
+					"USD",
+					"cryptocurrency's"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 51,
+				"title": "Bitcoin/US Dollar (BTC/USD) Exchange Rate - DailyForex.com",
+				"link": "https://www.dailyforex.com/currencies/btc/usd",
+				"domain": "www.dailyforex.com",
+				"displayed_link": "https://www.dailyforex.com › currencies › btc › usd",
+				"description": "Bitcoin/USD Exchange Rate. The bitcoin is a crypto currency, called this because it uses cryptography to control the creation and transfer of money. Bitcoins ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 52,
+				"title": "24975.6 Bitcoin (BTC) to US Dollar (USD) | EXMO Exchange",
+				"link": "https://exmo.com/trade/BTC_USD",
+				"domain": "exmo.com",
+				"displayed_link": "https://exmo.com › trade › BTC_USD",
+				"description": "How to exchange Bitcoin (BTC) to US Dollars (USD)?. In order to buy or sell BTC, you need to follow these simple steps: Select the order type: Limit, Market or ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"US Dollars",
+					"USD",
+					"BTC"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 53,
+				"title": "Purpose Bitcoin ETF | Cryptocurrency & Bitcoin | BTCC",
+				"link": "https://www.purposeinvest.com/funds/purpose-bitcoin-etf",
+				"domain": "www.purposeinvest.com",
+				"displayed_link": "https://www.purposeinvest.com › funds › purpose-bitco...",
+				"description": "All prices reflected are measured in USD. Purpose Investments Inc, its data or content providers, the financial exchanges and each of their affiliates and ...",
+				"emphasized_keywords": [
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 54,
+				"title": "Cryptocurrency Prices | Live Crypto Quotes - Kraken",
+				"link": "https://www.kraken.com/en-us/prices",
+				"domain": "www.kraken.com",
+				"displayed_link": "https://www.kraken.com › en-us › prices",
+				"description": "Find live cryptocurrency prices and quotes for over 30 assets at the Kraken Exchange. View real-time crypto charts and purchase in minutes. ... USD CoinUSDC.",
+				"emphasized_keywords": [
+					"cryptocurrency",
+					"crypto",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 55,
+				"title": "Bitcoin/USD Live Price - CEX.IO",
+				"link": "https://cex.io/bitcoin-usd",
+				"domain": "cex.io",
+				"displayed_link": "https://cex.io › bitcoin-usd",
+				"description": "Check the live Bitcoin price. Exchange rate Bitcoin to USD on CEX.IO Bitcoin Crypto Exchange.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"Bitcoin",
+					"USD",
+					"Bitcoin Crypto"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 56,
+				"title": "A new impulse. Why may Bitcoin cost USD 100K already this ...",
+				"link": "https://www.finextra.com/blogposting/20052/a-new-impulse-why-may-bitcoin-cost-usd-100k-already-this-year",
+				"domain": "www.finextra.com",
+				"displayed_link": "https://www.finextra.com › latest blogs",
+				"description": "Mar 19, 2021 — On the night of March 18, the Bitcoin price again approached the $60K mark. The first cryptocurrency began to actively grow in price after ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"cryptocurrency"
+				],
+				"sitelinks": [],
+				"date": "Mar 19, 2021"
+			},
+			{
+				"position": 57,
+				"title": "BTC/USD Trading signals - BITCOIN - CentralCharts",
+				"link": "https://www.centralcharts.com/en/6863-btc-usd/signals",
+				"domain": "www.centralcharts.com",
+				"displayed_link": "https://www.centralcharts.com › 6863-btc-usd › signals",
+				"description": "4 days ago — BITCOIN - BTC/USD Trading signals : automatic detection of technical indicator configurations, chart patterns and candlesticks.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": [],
+				"date": "4 days ago"
+			},
+			{
+				"position": 58,
+				"title": "Bitcoin Price | Buy Bitcoin Online - Luno",
+				"link": "https://www.luno.com/en/price/BTC",
+				"domain": "www.luno.com",
+				"displayed_link": "https://www.luno.com › price › BTC",
+				"description": "Bitcoin price. BTC to USD. BTC. ETH. USD 23,098. Day. Week. Month. Year. All time. 2016 2016 2018 2018 2020 2020 2022 2022 20,000 20,000 40,000 40,000 ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"USD",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 59,
+				"title": "BTCUSD Bitcoin US Dollar - Currency Exchange Rate Live ...",
+				"link": "https://tradingeconomics.com/btcusd:cur",
+				"domain": "tradingeconomics.com",
+				"displayed_link": "https://tradingeconomics.com › btcusd:cur",
+				"description": "CrossesPriceDay%Day%YearDateBTCUSD23,002.3‑249.7‑1.07%‑28.75%Jul/21ETHUSD1,571.9451.773.41%‑22.11%Jul/21ADAUSD0.495940.003100.63%‑58.11%Jul/21View 31 more rows",
+				"emphasized_keywords": [],
+				"sitelinks": []
+			},
+			{
+				"position": 60,
+				"title": "Bitcoin Price in USD historical chart - BitInfoCharts",
+				"link": "https://bitinfocharts.com/comparison/bitcoin-price.html",
+				"domain": "bitinfocharts.com",
+				"displayed_link": "https://bitinfocharts.com › Bitcoin › Price in USD Chart",
+				"description": "Bitcoin Average price, per day, USD Chart.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 61,
+				"title": "Bitcoin Price, Chart, & Supply Details - BTC Price - Gemini",
+				"link": "https://www.gemini.com/prices/bitcoin",
+				"domain": "www.gemini.com",
+				"displayed_link": "https://www.gemini.com › prices › bitcoin",
+				"description": "View the latest Bitcoin price movements, charts, and supply details. ... $423.27B USD ... Bitcoin is the world's first cryptocurrency and blockchain.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD",
+					"Bitcoin",
+					"cryptocurrency"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 62,
+				"title": "Bitcoin (BTC) - USDT - Live Bitcoin price and market cap",
+				"link": "https://www.cryptocompare.com/coins/btc/overview",
+				"domain": "www.cryptocompare.com",
+				"displayed_link": "https://www.cryptocompare.com › coins › btc › overview",
+				"description": "See below for a full range of Bitcoin markets where you can trade US Dollars for Bitcoin, crypto to Bitcoin and many other fiat currencies too. Bitcoin ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"US Dollars",
+					"Bitcoin",
+					"crypto",
+					"Bitcoin",
+					"Bitcoin"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 63,
+				"title": "1 Bitcoin (BTC) to United States Dollars (USD) today",
+				"link": "https://exchangerate.guru/btc/usd/1/",
+				"domain": "exchangerate.guru",
+				"displayed_link": "https://exchangerate.guru › btc › usd",
+				"description": "Learn the value of 1 Bitcoin (BTC) in United States Dollars (USD) today. The dynamics of the exchange rate change for a week, for a month, for a year on the ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 64,
+				"title": "Bitcoin United States Dollar (BTC/USD) - FX Empire",
+				"link": "https://www.fxempire.com/crypto/btc",
+				"domain": "www.fxempire.com",
+				"displayed_link": "https://www.fxempire.com › Cryptocurrencies",
+				"description": "Bitcoin United States Dollar Live Price, Charts, Forecasts, News and Coin Data. Everything you need to know about BTC/USD.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 65,
+				"title": "Sell Bitcoin with US Dollar (USD) - LocalBitcoins",
+				"link": "https://localbitcoins.com/sell-bitcoins-online/usd/",
+				"domain": "localbitcoins.com",
+				"displayed_link": "https://localbitcoins.com › sell-bitcoins-online › usd",
+				"description": "BuyerPayment methodPrice / BTCLimitsCocoheart (700+; 100%)Payoneer36,505.21 USD500 ‑ 50,000...Mrromantic (150+; 98%)Other Remittance: Bill Payment34,385.56 USD50 ‑ 225 USDMrromantic (150+; 98%)Other online payment: Bill Payment34,385.56 USD50 ‑ 225 USDView 47 more rows",
+				"emphasized_keywords": [],
+				"sitelinks": []
+			},
+			{
+				"position": 66,
+				"title": "Bitcoin (BTC) live coin price, charts, markets & liquidity",
+				"link": "https://www.livecoinwatch.com/price/Bitcoin-BTC",
+				"domain": "www.livecoinwatch.com",
+				"displayed_link": "https://www.livecoinwatch.com › price › Bitcoin-BTC",
+				"description": "Track current Bitcoin prices in real-time with historical BTC USD charts, liquidity, and volume. Get top exchanges, markets, and more.",
+				"emphasized_keywords": [
+					"BTC USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 67,
+				"title": "Bitcoin live price in USD — today's Live Value of BTC (Current ...",
+				"link": "https://3commas.io/coin-price-chart/bitcoin-usd",
+				"domain": "3commas.io",
+				"displayed_link": "https://3commas.io › coin-price-chart › bitcoin-usd",
+				"description": "Real-Time Bitcoin to US Dollar Price Chart (BTC to USD) ✓ Useful information about smart trading and crypto trading bots by 3Commas.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"USD",
+					"crypto"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 68,
+				"title": "Bitcoin (BTC) Signals, Live Price and Analysis - FXLeaders",
+				"link": "https://www.fxleaders.com/live-rates/btc/",
+				"domain": "www.fxleaders.com",
+				"displayed_link": "https://www.fxleaders.com › live-rates › btc",
+				"description": "FX Leaders BTC/USD live charts will fill you in on everything you need to know to trade the Bitcoin.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 69,
+				"title": "22102 BTC-USD | Bitfinex live chart | Cryptowatch",
+				"link": "https://cryptowat.ch/charts/BITFINEX:BTC-USD",
+				"domain": "cryptowat.ch",
+				"displayed_link": "https://cryptowat.ch › Markets › Bitfinex › BTC USD",
+				"description": "Trade and chart with live market data for BTC-USD on Bitfinex within the Cryptowatch trading terminal.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 70,
+				"title": "22623.9 BTC USD - Gate.io",
+				"link": "https://www.gate.io/trade/BTC_USD",
+				"domain": "www.gate.io",
+				"displayed_link": "https://www.gate.io › trade › BTC_USD",
+				"description": "CoinPrice24h %3XGTGateToken4.1269‑3.06 %1.15M10XBTCBitcoin22609.99‑6.51 %362.17M10XETHEthereum1508.36‑5.69 %292.42MView 20 more rows",
+				"emphasized_keywords": [],
+				"sitelinks": []
+			},
+			{
+				"position": 71,
+				"title": "Risk Factors And Contagion In Commodity Markets And Stocks ...",
+				"link": "https://books.google.com/books?id=CNPkDwAAQBAJ&pg=PA20&lpg=PA20&dq=bitcoin+usd&source=bl&ots=KKoKQsOx1P&sig=ACfU3U0-YImPzQhDxAE4rITO8TwMHfxTpQ&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjcAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "the foreseeable gains that the cryptocurrency world seems to generate through a new ... approach to the Bitcoin–USD rate daily returns is shown in Table 4."
+			},
+			{
+				"position": 72,
+				"title": "Bitcoin (BTC) Price, Charts, Market Cap ... - Coinpaprika",
+				"link": "https://coinpaprika.com/coin/btc-bitcoin/",
+				"domain": "coinpaprika.com",
+				"displayed_link": "https://coinpaprika.com › coin › btc-bitcoin",
+				"description": "Bitcoin Price Chart | Market Capitalization | BTC to USD Calculator | BTC ROI Calculator | News | Description | Team | Related Events | Community | Similar ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"BTC",
+					"USD",
+					"BTC"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 73,
+				"title": "12380 Bitcoin usd Images, Stock Photos & Vectors - Shutterstock",
+				"link": "https://www.shutterstock.com/search/bitcoin-usd",
+				"domain": "www.shutterstock.com",
+				"displayed_link": "https://www.shutterstock.com › search › bitcoin-usd",
+				"description": "Find Bitcoin usd stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.",
+				"emphasized_keywords": [
+					"Bitcoin usd"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 74,
+				"title": "Advances in Time Series Data Methods in Applied Economic ...",
+				"link": "https://books.google.com/books?id=-aV-DwAAQBAJ&pg=PA514&lpg=PA514&dq=bitcoin+usd&source=bl&ots=uW6VUhX1-2&sig=ACfU3U3_s2h6YXQWSq3iIEyEcs4QN8zB3g&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjYAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "liquid as one can exchange any currency for bitcoin at any time, ... GARCH model reporting a relationship between the rate of return of Bitcoin USD, ..."
+			},
+			{
+				"position": 75,
+				"title": "Taxation, Virtual Currency and Blockchain - Google Books Result",
+				"link": "https://books.google.com/books?id=Jo6WDwAAQBAJ&pg=PT63&lpg=PT63&dq=bitcoin+usd&source=bl&ots=4nO10SmPAb&sig=ACfU3U0MlZU1-dhZMrntKmQdmdf7qv29yg&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjXAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "Bitcoin's market capitalization exceeded 1 million USD in November 2011.93 Bitcoins are composed of unique strings of numbers and letters that constitute ..."
+			},
+			{
+				"position": 76,
+				"title": "Bitcoin and Other Virtual Currencies for the 21st Century",
+				"link": "https://books.google.com/books?id=_EtXCAAAQBAJ&pg=PR15&lpg=PR15&dq=bitcoin+usd&source=bl&ots=Z818gDRNik&sig=ACfU3U3apU2iXsUFvB1Kn9aHKwEXo2gyaA&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjaAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "The first crash in Bitcoin value occurred in June 2011 when the market price fell from a high of 32 USD to a low of 2 USD. The second crash occurred ..."
+			},
+			{
+				"position": 77,
+				"title": "Bitcoin USD Price: Live Chart - CryptoPurview",
+				"link": "https://cryptopurview.com/live-price/",
+				"domain": "cryptopurview.com",
+				"displayed_link": "https://cryptopurview.com › live-price",
+				"description": "Get the most accurate Bitcoin USD Price with interactive visual and analytical tools to study chart patterns, Live BTC USD price movement.",
+				"emphasized_keywords": [
+					"Bitcoin USD",
+					"BTC USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 78,
+				"title": "Bitcoin Price History: 2009 - 2022",
+				"link": "https://www.sofi.com/learn/content/bitcoin-price-history/",
+				"domain": "www.sofi.com",
+				"displayed_link": "https://www.sofi.com › learn › content › bitcoin-price-hist...",
+				"description": "From its launch in 2009 as the OG crypto, through July of 2022, Bitcoin's wild ride tells a vivid story of the evolution of cryptocurrencies today.",
+				"emphasized_keywords": [
+					"crypto",
+					"Bitcoin's"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 79,
+				"title": "Convert 1 Btc To Usd Bitcoin To Us Dollar - Progress santé",
+				"link": "https://www.progress-sante.com/convert-1-btc-to-usd-bitcoin-to-us-dollar/",
+				"domain": "www.progress-sante.com",
+				"displayed_link": "https://www.progress-sante.com › convert-1-btc-to-usd-...",
+				"description": "Bitcoin ($BTC USD) Cryptocurrency Price Falls on Liquidation. Posted: Wed, 27 Oct 2021 07:00:00 GMT [source]. While we are independent, we may receive ...",
+				"emphasized_keywords": [
+					"BTC USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 80,
+				"title": "Bitcoin USD (BTC-USD) - Stock Analysis - PortfoliosLab",
+				"link": "https://portfolioslab.com/symbol/BTC-USD",
+				"domain": "portfolioslab.com",
+				"displayed_link": "https://portfolioslab.com › symbol › BTC-USD",
+				"description": "Bitcoin USD (BTC-USD) - historical returns, volatility, Sharpe ratio, dividend payments, portfolios and more.",
+				"emphasized_keywords": [
+					"Bitcoin USD",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 81,
+				"title": "Escaping the Governance Trap: Economic Reform in the ...",
+				"link": "https://books.google.com/books?id=uzN7EAAAQBAJ&pg=PA82&lpg=PA82&dq=bitcoin+usd&source=bl&ots=Uvl-t_a7o6&sig=ACfU3U2WUyZWyPOcBLm7bNNGTHweKTJWbQ&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjZAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "$22,000 $20,000 $18,000 $16,000 $14,000 $12,000 $10,000 Apr-13 Jan-14 Oct-14 Jul-15 Apr-16 Jan-17 Market capitalization of Bitcoin (USD billions) BTC market ..."
+			},
+			{
+				"position": 82,
+				"title": "Bitcoin USD Closing Price (BTC-USD) Comparison Using ...",
+				"link": "https://fidelity.nusaputra.ac.id/article/view/74",
+				"domain": "fidelity.nusaputra.ac.id",
+				"displayed_link": "https://fidelity.nusaputra.ac.id › view",
+				"description": "by MAS Yudono · 2022 · Cited by 1 — Bitcoin USD Closing Price (BTC-USD) Comparison Using Simple Moving Average And Radial Basis Function Neural Network Methods ...",
+				"emphasized_keywords": [
+					"Bitcoin USD",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": [],
+				"date": "by MAS Yudono · 2022 · Cited by 1"
+			},
+			{
+				"position": 83,
+				"title": "Buy, Sell and Trade BTC/USDT - KuCoin",
+				"link": "https://www.kucoin.com/trade/BTC-USDT",
+				"domain": "www.kucoin.com",
+				"displayed_link": "https://www.kucoin.com › trade › BTC-USDT",
+				"description": "Trade BTC/USDT on KuCoin to buy and sell BTC/USDT easily; The world's #1 altcoin exchange with deep liquidity and low fees.",
+				"emphasized_keywords": [
+					"BTC",
+					"BTC"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 84,
+				"title": "Bitcoin vuelve sobre los USD 23.000: ¿se rompen los ...",
+				"link": "https://www.criptonoticias.com/mercados/bitcoin-vuelve-sobre-usd-23000-rompen-pronosticos-bajistas/",
+				"domain": "www.criptonoticias.com",
+				"displayed_link": "https://www.criptonoticias.com › bitc...",
+				"description": "2 days ago — Los pronósticos bajistas se basan en datos que bitcoin estaría logrando romper. El precio de bitcoin (BTC) pasó los 23.300 dólares nuevamente ...",
+				"emphasized_keywords": [
+					"bitcoin",
+					"bitcoin",
+					"BTC"
+				],
+				"sitelinks": [],
+				"date": "2 days ago"
+			},
+			{
+				"position": 85,
+				"title": "Convert BTC to USD - Unit Converter",
+				"link": "https://www.unitconverters.net/currency/btc-to-usd.htm",
+				"domain": "www.unitconverters.net",
+				"displayed_link": "https://www.unitconverters.net › currency › btc-to-usd",
+				"description": "Instant free online tool for BTC to USD conversion or vice versa. The BTC [Bitcoin] to USD [United States Dollar] conversion table and conversion steps are ...",
+				"emphasized_keywords": [
+					"BTC",
+					"USD",
+					"BTC",
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 86,
+				"title": "Bitcoin Price Chart Today - Live BTC/USD - Gold Price",
+				"link": "https://goldprice.org/cryptocurrency-price/bitcoin-price",
+				"domain": "goldprice.org",
+				"displayed_link": "https://goldprice.org › cryptocurrency-price › bitcoin-p...",
+				"description": "What is Bitcoin? Bitcoin is a cryptocurrency, a form of electronic cash which can be spent peer-to-peer. It was launched in 2009 by an anonymous person or ...",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"Bitcoin",
+					"cryptocurrency"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 87,
+				"title": "BTC-USD Cryptocurrency of Bitcoin - InvestorPlace",
+				"link": "https://investorplace.com/cryptocurrency/BTC-usd/",
+				"domain": "investorplace.com",
+				"displayed_link": "https://investorplace.com › cryptocurrency › BTC-usd",
+				"description": "Apr 22, 2022 — Check out our BTC-USD cryptocurrency analysis, current BTC-USD quote, charts, and historical prices for Bitcoin cryptocurrency.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD",
+					"BTC",
+					"USD"
+				],
+				"sitelinks": [],
+				"date": "Apr 22, 2022"
+			},
+			{
+				"position": 88,
+				"title": "Crypto Price: Bitcoin, Ethereum, Avalanche & Polygon jump ...",
+				"link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-prices-today-live-news-bitcoin-dogecoin-ethereum-shibha-inu-cryptocurrency-latest-updates-19-july-2022/articleshow/92969446.cms",
+				"domain": "economictimes.indiatimes.com",
+				"displayed_link": "https://economictimes.indiatimes.com › articleshow",
+				"description": "3 days ago — Barring the dollar-pegged USD Coin and Tron, all other crypto tokens were trading higher on Tuesday. Polygon zoomed more than 15 per cent, ...",
+				"emphasized_keywords": [
+					"USD",
+					"crypto"
+				],
+				"sitelinks": [],
+				"date": "3 days ago"
+			},
+			{
+				"position": 89,
+				"title": "BTC - Investopedia",
+				"link": "https://www.investopedia.com/markets/quote?tvwidgetsymbol=BTCUSD",
+				"domain": "www.investopedia.com",
+				"displayed_link": "https://www.investopedia.com › markets › quote › tvwidg...",
+				"description": "No information is available for this page.",
+				"emphasized_keywords": [],
+				"sitelinks": [],
+				"date": "Learn why"
+			},
+			{
+				"position": 90,
+				"title": "23181.0 (XBTUSD) Trade - BitMEX",
+				"link": "https://www.bitmex.com/app/trade/XBTUSD",
+				"domain": "www.bitmex.com",
+				"displayed_link": "https://www.bitmex.com › app › trade › XBTUSD",
+				"description": "Trade Bitcoin and other cryptocurrencies with up to 100x leverage. ... XBTUSD, 23190.60, 23181.0, 23181.5, 23182.0, 11,746.5384 XBT, 1 USD, ---.",
+				"emphasized_keywords": [
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 91,
+				"title": "Bitcoin (BTC) Dips Below $10,000 USD As Bulls Enter Panic ...",
+				"link": "https://coingape.com/bitcoin-dips-below-10000-usd-as-bulls-enter-panic-mode-is-it-time-to-sell-2/",
+				"domain": "coingape.com",
+				"displayed_link": "https://coingape.com › Price Analysis",
+				"description": "Feb 16, 2020 — Market sentiments are turning bearish on the short timeframe charts as $9,500 USD key support levels lingers. Bitcoin (BTC) price crashed below ...",
+				"emphasized_keywords": [
+					"USD",
+					"Bitcoin",
+					"BTC"
+				],
+				"sitelinks": [],
+				"date": "Feb 16, 2020"
+			},
+			{
+				"position": 92,
+				"title": "Bitcoin (BTC) Price, View BTC Live Value & Buy ... - eToro",
+				"link": "https://www.etoro.com/markets/btc",
+				"domain": "www.etoro.com",
+				"displayed_link": "https://www.etoro.com › ... › Crypto › Coins › BTC",
+				"description": "View real-time BTC price, and stay up to date on BTC value with live charts. ... Bitcoin. 22403.31 -665.02 (-2.88%). Prices By eToro, in USD Market Open.",
+				"emphasized_keywords": [
+					"BTC",
+					"BTC",
+					"Bitcoin",
+					"USD"
+				],
+				"sitelinks": []
+			},
+			{
+				"position": 93,
+				"title": "The Electrical Review - Volume 79 - Page 30 - Google Books Result",
+				"link": "https://books.google.com/books?id=VZ1OAQAAMAAJ&pg=RA1-PA30&lpg=RA1-PA30&dq=bitcoin+usd&source=bl&ots=TIUTa9NoO_&sig=ACfU3U3DCWcKVV19QT50CnCwq5U3DdnC1Q&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjbAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "“ HARTNELL ” Od POLYPHASE MOTORS USD Eties RUN ON BALL BEARINGS ... The Crypto Electrical Co. , Acton Lane , Willesden . 30 [ December 29 , 1916 ."
+			},
+			{
+				"position": 94,
+				"title": "The Dictionary of Scientific Terms and Technological ...",
+				"link": "https://books.google.com/books?id=8ypbAAAAcAAJ&pg=PA240&lpg=PA240&dq=bitcoin+usd&source=bl&ots=33ZK5VNyNC&sig=ACfU3U281mi0lX9NUOZ6i-FzsE-6ZFMwsg&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjDAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "... horn , Tegnie , a term usd in law to denota a a tom anplied to that whith ... a together , a ginus of plants , Crypto - 1 preteral al accumulation of ..."
+			},
+			{
+				"position": 95,
+				"title": "Rand McNally Bankers Directory and the Bankers Register with ...",
+				"link": "https://books.google.com/books?id=MU5OAAAAYAAJ&pg=PA168-IA5&lpg=PA168-IA5&dq=bitcoin+usd&source=bl&ots=ipSb47ns0n&sig=ACfU3U0dx3oRybbpAcTwxRr9ARiKCjdpUA&hl=en&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ6AF6BQjWAhAD",
+				"domain": "books.google.com",
+				"displayed_link": "https://books.google.com › books",
+				"description": "... Palatkar como Prango Larah Conner Lake 1 o N Geos BTC Cruelt 4 Astor Park ... White Cir Fruitrilled IN USD Coalin Anda Mikke Tuin Oled hobee Bee Ridge ..."
+			},
+			{
+				"position": 96,
+				"title": "Bybit Testnet",
+				"link": "https://www.bybit.com/trade/inverse/BTCUSD",
+				"domain": "www.bybit.com",
+				"displayed_link": "https://www.bybit.com › trade › inverse › BTCUSD",
+				"description": "Expiration Date. Perpetual. Index Price. 0.00. Mark Price. 0.00. Open Interest. 0. 24H Turnover. 0.00 BTC. 24H Volume. 0 USD. Contract Value. 1 USD.",
+				"emphasized_keywords": [
+					"BTC",
+					"USD",
+					"USD"
+				],
+				"sitelinks": []
+			}
+		],
+		"paid_results": [
+			{
+				"position": 1,
+				"title": "Wikipedia - The Free Encyclopedia",
+				"link": "https://en.wikipedia.org/wiki/Main_Page",
+				"domain": "en.wikipedia.org",
+				"displayed_link": "https://en.wikipedia.org/",
+				"description": "The Free Encyclopedia That Anyone Can Edit. From Today’s Featured Article. Wikipedia, the free encyclopedia. Donate Online. Upload A File. Create An Account.",
+				"emphasized_keywords": [
+					"Wikipedia"
+				]
+			}
+		],
+		"related_queries": [
+			{
+				"position": 1,
+				"link": "/search?num=100&q=Ethereum+price+USD&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAgqEAE",
+				"title": "ethereum price usd"
+			},
+			{
+				"position": 2,
+				"link": "/search?num=100&q=Bitcoin+news&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAgpEAE",
+				"title": "bitcoin news"
+			},
+			{
+				"position": 3,
+				"link": "/search?num=100&q=Bitcoin+price&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAgoEAE",
+				"title": "bitcoin price"
+			},
+			{
+				"position": 4,
+				"link": "/search?num=100&q=Bitcoin+price+USD+prediction&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAgnEAE",
+				"title": "bitcoin price usd prediction"
+			},
+			{
+				"position": 5,
+				"link": "/search?num=100&q=Dogecoin+price+USD&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAglEAE",
+				"title": "dogecoin price usd"
+			},
+			{
+				"position": 6,
+				"link": "/search?num=100&q=Bitcoin+price+live&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAgiEAE",
+				"title": "bitcoin price live"
+			},
+			{
+				"position": 7,
+				"link": "/search?num=100&q=Bitcoin+price+prediction&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAgvEAE",
+				"title": "bitcoin price prediction"
+			},
+			{
+				"position": 8,
+				"link": "/search?num=100&q=How+to+buy+Bitcoin&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQ1QJ6BAgsEAE",
+				"title": "how to buy bitcoin"
+			}
+		],
+		"people_also_ask": [
+			{
+				"position": 1,
+				"question": "How much is $1 Bitcoin in US dollars?",
+				"searchLink": "/search?num=100&q=How+much+is+%241+Bitcoin+in+US+dollars%3F&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQzmd6BAhfEAU"
+			},
+			{
+				"position": 2,
+				"question": "What is $1000 Bitcoin worth?",
+				"searchLink": "/search?num=100&q=What+is+%241000+Bitcoin+worth%3F&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQzmd6BAheEAU"
+			},
+			{
+				"position": 3,
+				"question": "Who owns the most Bitcoin?",
+				"searchLink": "/search?num=100&q=Who+owns+the+most+Bitcoin%3F&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQzmd6BAhbEAU"
+			},
+			{
+				"position": 4,
+				"question": "Is Bitcoin high or low right now?",
+				"searchLink": "/search?num=100&q=Is+Bitcoin+high+or+low+right+now%3F&sa=X&ved=2ahUKEwjAtqDonYv5AhUyFVkFHTBMDhAQzmd6BAhGEAU"
+			}
+		],
+		"pagination": {
+			"currentPage": null,
+			"hasNextPage": false,
+			"links": []
+		},
+		"top_stories": [
+			[
+				{
+					"position": 1,
+					"link": "https://www.bloomberg.com/news/articles/2022-07-21/finland-liquidates-seized-bitcoin-stash-amid-crypto-bust",
+					"domain": "www.bloomberg.com",
+					"brand": "Bloomberg.com",
+					"title": "Bitcoin (BTC USD) News: Finland Liquidates Seized Tokens Amid Crypto Bust",
+					"date": "8 hours ago"
+				},
+				{
+					"position": 2,
+					"link": "https://www.fxstreet.com/cryptocurrencies/news/btc-usd-retreats-from-five-week-top-as-tesla-reveals-bitcoin-sale-202207210230",
+					"domain": "www.fxstreet.com",
+					"title": "BTC/USD retreats from five-week top as Tesla reveals Bitcoin sale",
+					"date": "21 hours ago"
+				},
+				{
+					"position": 3,
+					"link": "https://www.bloomberg.com/news/articles/2022-07-20/bitcoin-briefly-rises-above-24-000-for-first-time-in-a-month",
+					"domain": "www.bloomberg.com",
+					"brand": "Bloomberg.com",
+					"title": "Bitcoin (BTC/USD) Briefly Rises Above $24,000 For First Time in a Month",
+					"date": "1 day ago"
+				}
+			]
+		]
+	}
+}
