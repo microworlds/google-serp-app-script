@@ -65,7 +65,7 @@ function search(params) {
 
 // Populate sheet with the `organic_result` data from RapidAPI
 function writeOrganicResults(data, spreadsheet){
-  Logger.log(`Writing data...`)
+  Logger.log(`Writing data...📝`)
   let organic_results = data?.data?.organic_results
 
   if (organic_results.length < 1){
